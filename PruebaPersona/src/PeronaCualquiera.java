@@ -3,5 +3,5 @@ public class PeronaCualquiera {
 
 	
 		//Comentario
-	//Segundo comentario
+	//Segundo comentario añadidio
 }
